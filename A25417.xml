@@ -1,0 +1,1073 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The yearly intelligencer, or, A perfect chronology of all the battailes, sieges, conflicts, actions, exploits, and all other signal and remarkable passages which have happ'ned in the world from September the 29th, 1671 to September the 29th, 1672 collected by William Andrevvs.</title>
+            <author>Andrews, William, ca. 1635-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25417</idno>
+            <idno type="STC">Wing A3159</idno>
+            <idno type="STC">ESTC R28295</idno>
+            <idno type="EEBO-CITATION">10492335</idno>
+            <idno type="OCLC">ocm 10492335</idno>
+            <idno type="VID">45171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45171)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1393:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The yearly intelligencer, or, A perfect chronology of all the battailes, sieges, conflicts, actions, exploits, and all other signal and remarkable passages which have happ'ned in the world from September the 29th, 1671 to September the 29th, 1672 collected by William Andrevvs.</title>
+                  <author>Andrews, William, ca. 1635-1713.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Crowch for T. Vere,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English.</term>
+               <term>Calendars.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45171:1"/>
+            <pb facs="tcp:45171:1" rendition="simple:additions"/>
+            <p>THE Yearly Intelligencer; OR A PERFECT CHRONOLOGY: OF ALL The <hi>Battailes, Sieges, Conflicts, Actions, Exploits,</hi> and all other Signal and Remarkable <hi>Paſsages,</hi> which have happ'ned in the World.</p>
+            <p>From <hi>September</hi> the 29th. 1671. to <hi>September</hi> the 29th. 1672.</p>
+            <p>Collected by <hi>William Andrevvs,</hi> Student in <hi>ASTROLOGY.</hi>
+            </p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Crowch,</hi> for <hi>T. Vere,</hi> at the <hi>Angel</hi> without <hi>New-gate.</hi> 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:45171:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:45171:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou have here preſented unto publick view, an <hi>Annual Chronology:</hi> or a Particular Account, in a <hi>Chrono<g ref="char:EOLhyphen"/>logical</hi> way, of all the moſt material <hi>Actions</hi> and <hi>Paſſages,</hi> &amp;c which have happ'ned in moſt Parts of the World, for one whole Year laſt paſt; which we hope will prove acceptable unto you.</p>
+            <p>The work it ſelf, I preſume, may not only be <hi>uſeful</hi> and <hi>neceſſary,</hi> but alſo very <hi>delectable</hi> unto many; there being therein clearly ſet down, not only what publick matters have hap<g ref="char:EOLhyphen"/>pened in the ſaid Year past, in <hi>His Majeſties</hi> Dominions: but alſo even in all, or moſt parts of the Inhabitable World: diligently Collected from the publick Writings of others, and from ſuch Informations as are unqueſtionable.</p>
+            <p>What either through the Printers, or my own <hi>Inadvertency,</hi> hath therein happened <hi>Erroneous,</hi> we beſeech you to pardon: Conſidering there are, and will be <hi>miſtakes</hi> and <hi>defects</hi> in the beſt of <hi>Humane Acti<g ref="char:EOLhyphen"/>ons:</hi> However, I have been as careful in my <hi>Collections</hi> as poſſible, and I hope the <hi>Printer</hi> and <hi>Corrector</hi> will be as careful in what be<g ref="char:EOLhyphen"/>longs unto them, concerning it, in the <hi>Printing</hi> and <hi>Correcting</hi> thereof.</p>
+            <pb facs="tcp:45171:3" rendition="simple:additions"/>
+            <p>If this preſent <hi>Chronology,</hi> ſhall find your kind acceptance, it may animate me hereafter <hi>(Deo permittente)</hi> to carry on from Year, to Year, the like for the future: And none ſhall more oblige me, then ſuch, as ſhall for time to come, give me <hi>real</hi> and <hi>true</hi> Information, of any <hi>material matters,</hi> &amp;c. which ſhall hereafter happen: warrantable for their entry. In the interim, I remain,</p>
+            <closer>
+               <signed>Your very humble Servant. William Andrews.</signed>
+               <dateline>
+                  <hi>Radwinter,</hi> near <hi>Saffron-Walden</hi> in <hi>Eſſex,</hi> 
+                  <date>Octob. <hi>31. 1672.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <head>ADVERTISEMENT.</head>
+            <p>THe Letters <hi>N. S.</hi> in the ſeveral Columns of the Days of every Month, ſignifie <hi>Stilo Novo,</hi> New Stile, or the Foraign Account.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45171:3"/>
+            <head>THE Yearly Intelligencer; OR A PERFECT CHRONOLOGY: OF ALL The <hi>Battailes, Sieges, Conflicts, Actions, Exploits,</hi> and all other Signal and Remarkable <hi>Paſſages,</hi> which have happened in the World. From <hi>September</hi> the 29th. 2671. to <hi>September</hi> the 29th. 1672.</head>
+            <div type="part">
+               <head>September. 1671</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> 
+                  <seg rend="decorInit">T</seg>Heir Majeſties dined at Sir <hi>John Hubbarts</hi> Houſe at <hi>Blech<g ref="char:EOLhyphen"/>ing:</hi> after din<g ref="char:EOLhyphen"/>ner his Majeſty parted to Sir <hi>Robert Paſtons</hi> at <hi>Oxney:</hi> and her Majeſty return<g ref="char:EOLhyphen"/>ed to <hi>Norwich.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> Sir <hi>George Waterman</hi> was choſen Lord Mayor of the City of <hi>London</hi> for the enſuing year; and Alder<g ref="char:EOLhyphen"/>man <hi>Jonathan Dawes,</hi> and Alder<g ref="char:EOLhyphen"/>man <hi>Robert Clayton,</hi> were ſworn Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> Their Majeſties dined at Sir <hi>Robert Paſtons</hi> at <hi>Oxney:</hi> after which his Majeſty, together with his Royal Highneſs, parted thence to the Lord <hi>Towneſends</hi> at <hi>Rayn<g ref="char:EOLhyphen"/>ham,</hi> and arrived there at night, and her Majeſty returned again to <hi>Norwich.</hi>
+               </p>
+               <pb facs="tcp:45171:4" rendition="simple:additions"/>
+               <p> Her <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> removed from the Lord <hi>Henry Howards</hi> at <hi>Norwich,</hi> for <hi>Enſton,</hi> where her Majeſty lodged this night.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Doctor <hi>Henry Bridgeman,</hi> was in the Quire of the Cathedral Church of <hi>Cheſter,</hi> conſecrated Biſhop of <hi>Soder</hi> and <hi>Man.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> His Majeſty parted from the Lord <hi>Towneſends</hi> at <hi>Raynham,</hi> and arrived at <hi>Newmarket.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Her Majeſty parted from <hi>Enſton,</hi> and arrived and lodged at <hi>Audley<g ref="char:EOLhyphen"/>end</hi> this night.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> His Majeſty honoured the Uni<g ref="char:EOLhyphen"/>verſity and Town of <hi>Cambridge</hi> with his Royal preſence, attended by many of the Nobility from <hi>New<g ref="char:EOLhyphen"/>market;</hi> conferred at <hi>Cambridge</hi> the Honour of Knight-hood upon <hi>Charles Caeſar</hi> Eſq, Son of Sir <hi>Henry Caeſar,</hi> and in the evening returned again to <hi>Newmarket.</hi>
+               </p>
+               <p>A ſharp diſpute happ'ned about the Iſles of <hi>Bayon,</hi> between the <hi>Swallow,</hi> a Merchant-Man, <hi>Engliſh</hi> built, Captain <hi>John Baddiſſon</hi> Com<g ref="char:EOLhyphen"/>mander, and an <hi>Algerine</hi> Pirate, in which the Captain was ſhot in the Cheek, his Boat-ſwain, and two others killed, the Carpenter and fourteen more dangerouſly wound<g ref="char:EOLhyphen"/>ed: yet by the courage of the ſaid Captain, the Veſſel was ſaved from the <hi>Turks.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Happ'ned a moſt violent ſtorm at <hi>Falmouth:</hi> in which ſome Veſ<g ref="char:EOLhyphen"/>ſels were loſt, and many driven aſhore.</p>
+               <p>Certain news from <hi>Dublin,</hi> of the ſafe arrival of the Lord <hi>Berkely,</hi> (Lord Lieutenant of that King<g ref="char:EOLhyphen"/>dom) there.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Dyed in Child-bed rhe Dutcheſs <hi>d'Oſſuna,</hi>
+                  <note place="margin">N.S.</note> wife to the Governour of <hi>Milan.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>October.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> The King of <hi>Danemark</hi> inſtituted a new Order of Knight-hood, un<g ref="char:EOLhyphen"/>der the name of the <hi>Danne Broge,</hi> (or the <hi>Daniſh</hi> Colours) and Cre<g ref="char:EOLhyphen"/>ated twenty four Knights, in re<g ref="char:EOLhyphen"/>membrance of a great Battel given heretofore, by <hi>Woldemar</hi> the ſecond King of <hi>Danemark,</hi> againſt the <hi>Swedes:</hi> upon the ſight (as is ſaid) of the <hi>Daniſh</hi> Colours diſplay<g ref="char:EOLhyphen"/>ed in the Heavens, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> The Queen of <hi>Danemark</hi> was delivered of a young Prince.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> His Majeſty and the Court re<g ref="char:EOLhyphen"/>turned to <hi>Whitehall</hi> from <hi>New<g ref="char:EOLhyphen"/>market.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> Arrived at <hi>Plimouth</hi> the flying Falcon of <hi>Amſterdam,</hi> from whence ſhe went the firſt of <hi>January</hi> 1669. upon Diſcovery, the Maſter where<g ref="char:EOLhyphen"/>of affirmed, that he was 50. de<g ref="char:EOLhyphen"/>grees Southward, that he made the main Land, and diſcovered two Iſlands in the South Sea: on which were men of an extraordinary Stature, being eleven foot in height and all hairy, that he ſailed out and home 12900 Dutch leagues.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> Captain <hi>Baddiſſon</hi> with the <hi>Swal<g ref="char:EOLhyphen"/>low</hi> arrived in the <hi>Downs.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="26"/> Was fought a Duel at the <hi>Hague</hi> at night by Torch-light,<note place="margin">N.S.</note> between the Heer vander <hi>Myle,</hi> and the Count <hi>de Warfuſe,</hi> on the one ſide, and the Counts <hi>de Donah,</hi> two Brothers on the other, in which the Heer vander <hi>Myle</hi> was deſpe<g ref="char:EOLhyphen"/>rately wounded.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> Captain <hi>Baddiſſon</hi> came to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and was preſented to his Royal Highneſs, and by his Royal Highneſs to his Majeſty, who was pleaſed to order him a gold Chain and Meddal, for his great valour and courage, in ſaving the <hi>Swal<g ref="char:EOLhyphen"/>low</hi> from the <hi>Algerin</hi> Pirates.</p>
+               <pb n="7" facs="tcp:45171:4" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> Sir <hi>Robert Southwell,</hi> his Maje<g ref="char:EOLhyphen"/>ſties Envoy Extraordinary to the Count <hi>de Montery,</hi> took leave of his Majeſty, in order to his Jour<g ref="char:EOLhyphen"/>ney to <hi>Bruſſels.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> Their Majeſties dined at the Lord Mayors Feaſt at <hi>Guildhall London,</hi> as alſo his Royal Highneſs, and his Highneſs Prince <hi>Rupert,</hi> &amp;c. where his Majeſty, conferred the honour of Knight-hood upon <hi>Jonathan Dawes,</hi> and <hi>Robert Clayton</hi> Eſquires Sheriffs of the City.</p>
+            </div>
+            <div type="part">
+               <head>November.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> The States General of the <hi>Uni<g ref="char:EOLhyphen"/>ted Provinces,</hi>
+                  <note place="margin">N.S.</note> by a Placaet, forbad all perſons whatſoever within the Territories of the ſeven Provinces, to import any <hi>French</hi> Wines, Vine<g ref="char:EOLhyphen"/>gar, Canvas, Paper, or Cheſnuts, <hi>&amp;c.</hi> upon forfeiture of the ſame, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> Being her Majeſties Birth-day, was ſolemnized with the uſual ex<g ref="char:EOLhyphen"/>preſſions of publick joy.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> Dyed at <hi>Paris Julie Lucine d'An<g ref="char:EOLhyphen"/>geneſs,</hi>
+                  <note place="margin">N.S.</note> Dutcheſs of <hi>Montanſier,</hi> in the 64. year of her age.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> Was Married by a Proxy at <hi>Metz</hi> the Princeſs <hi>Palatine</hi> (daugh<g ref="char:EOLhyphen"/>ter to the Elector <hi>Palatine</hi>) to the Duke of <hi>Orleans.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> Monſieur <hi>Lindenow</hi> Envoy for the King of <hi>Danemark,</hi> in an Au<g ref="char:EOLhyphen"/>dience, acquainted their Majeſties with the Birth of the Prince of <hi>Danemark;</hi> and at the Lady <hi>Wil<g ref="char:EOLhyphen"/>liams</hi> Houſe, in the Palace-yard <hi>Weſtminſter</hi> (entertained ſeveral) of the Nobility, <hi>&amp;c.</hi> at a very no<g ref="char:EOLhyphen"/>ble Supper, with other demon<g ref="char:EOLhyphen"/>ſtrations of joy.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> Arrived at <hi>Bruſſels</hi> Sir <hi>Robert Southwell</hi> Envoy Extraordinary of his Majeſty of <hi>Great Britain.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>Letters from Sir <hi>Edward Spragge</hi> dated <hi>September</hi> 30. <hi>N. S.</hi> in <hi>Al<g ref="char:EOLhyphen"/>giers</hi>-Bay, ſignifying great diſor<g ref="char:EOLhyphen"/>ders there: and an alteration of Government among thoſe people.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> Sir <hi>Robert Southwell</hi> had Au<g ref="char:EOLhyphen"/>dience of the Count <hi>de Montery</hi> at <hi>Bruſſels.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> The Earl of <hi>Sunderland,</hi> his Maje<g ref="char:EOLhyphen"/>ſty's Extraordinary Embaſſador to the Crown of <hi>Spain,</hi> went to <hi>Dover</hi> in order to his journey for <hi>Spain.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> His Excellency <hi>Don Franciſco de Melo,</hi> Embaſſador from the Crown of <hi>Portugal,</hi> made his publick en<g ref="char:EOLhyphen"/>try at <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>December.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> His Excellency <hi>Don Franciſco de Melo,</hi> Embaſſador from the Crown of <hi>Portugal,</hi> had his publick Audi<g ref="char:EOLhyphen"/>ence of their Majeſties, and after<g ref="char:EOLhyphen"/>wards of his Royal Highneſs.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Sir <hi>George Downing,</hi> his Maje<g ref="char:EOLhyphen"/>ſties Embaſſador to the States Ge<g ref="char:EOLhyphen"/>neral of the <hi>United Provinces,</hi> be<g ref="char:EOLhyphen"/>gan his journey for <hi>Holland.</hi>
+               </p>
+               <p>The City of <hi>Aſtracan</hi> was ſur<g ref="char:EOLhyphen"/>rendred to the Commander in chief of the <hi>Czars</hi> Forces.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Dyed the Lady <hi>Katherine,</hi> his Royal Highneſs's youngeſt daugh<g ref="char:EOLhyphen"/>ter, being about ten Months old.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Was privately Interred in King <hi>Henry</hi> the 7th. Chappel.</p>
+               <p>Dyed his Grace <hi>William</hi> Duke of <hi>Somerſet,</hi> in the 20th. year of his age, leaving his Uncle, the Lord <hi>John Seymour</hi> Heir of his Honour and Eſtate.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> The new Church, now called <hi>Christ Church,</hi> near <hi>Paris Garden</hi> in <hi>Southwark,</hi> built by <hi>John Marſhal</hi> late Inhabitant there, was Conſe<g ref="char:EOLhyphen"/>crated by the Right Reverend
+<pb facs="tcp:45171:5" rendition="simple:additions"/> Father in God, the Biſhop of <hi>Ro<g ref="char:EOLhyphen"/>cheſter.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> A Proclamation concerning St. <hi>Chriſtophers,</hi> relating to ſome mat<g ref="char:EOLhyphen"/>ters there acted by Sir <hi>Charles Wheeler,</hi> touching the former Inha<g ref="char:EOLhyphen"/>bitants, and Proprietors in that Iſland, <hi>&amp;c.</hi>
+               </p>
+               <p>Certain news of an Agreement made by the Elector of <hi>Cologne</hi> and that City.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> Sir <hi>George Downing,</hi> his Maje<g ref="char:EOLhyphen"/>ſties Embaſſador to the States Ge<g ref="char:EOLhyphen"/>neral of the <hi>United Provinces</hi> ar<g ref="char:EOLhyphen"/>rived at the <hi>Hague.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+            </div>
+            <div type="part">
+               <head>Ianuary.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>Ralph Montague</hi> Eſq was ſworn one of his Majeſties moſt honour<g ref="char:EOLhyphen"/>able privy Councel, and took his place accordingly.</p>
+               <p>Several accidents of fire hap<g ref="char:EOLhyphen"/>pened at <hi>Venice,</hi> which did ſome conſiderable dammage.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Sir <hi>George Downing</hi> Embaſſador from his Majeſty of <hi>Great Britain,</hi>
+                  <note place="margin">N.S.</note> had his publick Audience of the States General of the <hi>United Pro<g ref="char:EOLhyphen"/>vinces.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Was appointed for the Inter<g ref="char:EOLhyphen"/>changing of the Ratifications of the Treaty,<note place="margin">N.S.</note> between the Elector of <hi>Cologne</hi> and that City.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> A Proclamation for the calling home all Marriners, and Sea-faring Men, out of the ſervice of Forain Princes and States, and prohibit<g ref="char:EOLhyphen"/>ing their entering thereinto for the future, without Licenſe firſt had and obtained.</p>
+               <p>Certain news of the arrival of a very conſiderable body, both of Horſe and Foot of the <hi>French</hi> Forces, in the Electorate of <hi>Co<g ref="char:EOLhyphen"/>logne.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> Dyed the Right Reverend Fa<g ref="char:EOLhyphen"/>ther in God <hi>John Coſin,</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Durham,</hi> and Count <hi>Pala<g ref="char:EOLhyphen"/>tine</hi> there, in the 77. year of his age.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> A publick faſt was held in the <hi>United Provinces,</hi> by the command of the States General, for the a<g ref="char:EOLhyphen"/>verting thoſe evils, which ſeemed to threaten them from abroad.</p>
+               <p>Certain news from Captain <hi>Hart,</hi> from aboard the <hi>Rupert</hi> Frigat in <hi>Aligant</hi> Road, of Sir <hi>Edward Spragges</hi> having concluded an ho<g ref="char:EOLhyphen"/>nourable and advantageous Peace with <hi>Argiers.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> Mr. <hi>Joſeph Williamſon</hi> ſworn Clerck of the Councel in Ordina<g ref="char:EOLhyphen"/>ry, and his Majeſty conferred on him the honour of Knight-hood.</p>
+            </div>
+            <div type="part">
+               <head>February.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> The heart of the Princeſs <hi>de Conti,</hi>
+                  <note place="margin">N.S.</note> being embalmed and inclo<g ref="char:EOLhyphen"/>ſed in a Box of Silver, was carried to the great Convent of the <hi>Car<g ref="char:EOLhyphen"/>melites,</hi> where it was received with the uſual ſolemnities.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sir <hi>George Downing</hi> his Majeſties Embaſſador at the <hi>Hague,</hi> arrived at <hi>Whitehall.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Sent Priſoner to the Tower.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> The Empreſs of <hi>Germany</hi> was brought to Bed of a Daughter in the Morning,<note place="margin">N.S.</note> which was Chriſtned in the Evening by the Popes <hi>Nun<g ref="char:EOLhyphen"/>cio,</hi> by the name of <hi>Maria, Anna, Apolonia, Joſepha, Antonia, Scho<g ref="char:EOLhyphen"/>laſtica.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> Was Conſecrated in the Abby of <hi>Weſtminſter</hi> Doctor <hi>Guy Carleton</hi> Biſhop of <hi>Bristol,</hi> by his Grace the Arch-biſhop of <hi>York.</hi>
+               </p>
+               <p>His Majeſty Conſtituted Sir <hi>Gil<g ref="char:EOLhyphen"/>bert Gerrad</hi> Knight and Baronet,
+<pb n="9" facs="tcp:45171:5" rendition="simple:additions"/> High Sheriff of the County <hi>Pala<g ref="char:EOLhyphen"/>tine</hi> of <hi>Durham,</hi> and appointed Sir <hi>Francis Goodrick</hi> Temporal Chan<g ref="char:EOLhyphen"/>cellor of the ſaid County: to be Keeper of the Great Seal of the ſaid Biſhoprick and County <hi>Pala<g ref="char:EOLhyphen"/>tine</hi> of <hi>Durham.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> Dyed Sir <hi>Thomas Ingram,</hi> at his houſe at <hi>Thiſtleworth.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> His Majeſty made choice of Sir <hi>Robert Carr</hi> Knight and Baronet, to ſucceed Sir <hi>Thomas Ingram,</hi> as Chancellor of the County <hi>Pala<g ref="char:EOLhyphen"/>tine,</hi> and Dutchy of <hi>Lancaſter,</hi> and Keeper of the Seals of the ſame: who was thereupon ſworn of his Majeſties moſt Honourable Privy Councel, and took his place ac<g ref="char:EOLhyphen"/>cordingly.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> The Marquis d'<hi>Aſtorgas,</hi> the new Vice Roy at <hi>Naples,</hi>
+                  <note place="margin">N.S.</note> took poſſeſſion of that Government.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> Was put to death in <hi>Spain Don Jayme de caſtel Blanca,</hi>
+                  <note place="margin">N.S.</note> a Noble<g ref="char:EOLhyphen"/>man, Sentenced thereunto by the Royal Councel there, for many enormous crimes, by him com<g ref="char:EOLhyphen"/>mitted for 40. years together.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> Dyed at <hi>Vienna</hi> the young Em<g ref="char:EOLhyphen"/>perial Princeſs.<note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> Dyed <hi>Thomas</hi> Lord <hi>Leigh</hi> in the 77. year of his Age, leaving his Grand-child <hi>Thomas</hi> now Lord <hi>Leigh,</hi> Heir to his Honour and Eſtate.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> The young Emperial Princeſs was privately Interred in the Ca<g ref="char:EOLhyphen"/>pucins Church at <hi>Vienna.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> A fire at <hi>Amſterdam.</hi>
+               </p>
+               <p>
+                  <note place="margin">N.S.</note>The States General of the <hi>uni<g ref="char:EOLhyphen"/>ted <milestone type="tcpmilestone" unit="unspecified" n="24"/> Provinces,</hi> conferred on his Highneſs the Prince of <hi>Orange,</hi>
+                  <note place="margin">N.S.</note> the Commander of Captain General, and Admiral of their Land and Sea Forces.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> His Highneſs the Prince of <hi>O<g ref="char:EOLhyphen"/>range,</hi>
+                  <note place="margin">N.S.</note> entertained the States of <hi>Holland</hi> at a very noble and ſplen<g ref="char:EOLhyphen"/>did Feaſt, in the great Hall, where the ſaid States uſually aſſembled.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> The Count <hi>de Donah</hi> by a Court of Juſtice in <hi>Holland,</hi>
+                  <note place="margin">N.S.</note> ſentenced to looſe his Command, he had in the ſervice of that State, and his goods within thoſe Dominions to be con<g ref="char:EOLhyphen"/>fiſcated, for killing in a Duel Mon<g ref="char:EOLhyphen"/>ſieur <hi>vander Myle.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> His Majeſty honoured the Rea<g ref="char:EOLhyphen"/>der of <hi>Lincolns-Inn</hi> Sir <hi>Francis Goodrick,</hi> with his preſence at dinner, accompanyed with his Royal Highneſs, and his Highneſs Prince <hi>Rupert,</hi> conferred there the honour of Knighthood upon Mr. <hi>Pedley,</hi> and Mr. <hi>Stote,</hi> two former Readers there: as alſo upon Mr. <hi>James Butler,</hi> and Mr. <hi>Francis Dor<g ref="char:EOLhyphen"/>rel,</hi> of the ſame Society.</p>
+            </div>
+            <div type="part">
+               <head>March.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Dyed at St. <hi>Germans</hi> Madam <hi>Marie Thereſe</hi> of <hi>France,</hi>
+                  <note place="margin">N.S.</note> in the fifth year of her Age.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> His Majeſty in Councel decla<g ref="char:EOLhyphen"/>red and ordered, that it ſhould be lawful for any of his Subjects, ha<g ref="char:EOLhyphen"/>ving a Paſs from his Royal High<g ref="char:EOLhyphen"/>neſs the Duke of <hi>York,</hi> Lord High Admiral of <hi>England,</hi> &amp;c. to Sail and Navigate their Ships with one third of their Seamen and Marri<g ref="char:EOLhyphen"/>ners, being Foraigners, without a<g ref="char:EOLhyphen"/>ny hinderance or moleſtation, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> A ſharp Sea-fight began in the afternoon, between ſome of his Majeſties Frigats, nigh the Iſle of <hi>Wight,</hi> and the <hi>Dutch Smirna</hi> Fleet, which continued till night.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> The fight began again, conti<g ref="char:EOLhyphen"/>nued all day, in the evening five
+<pb n="10" facs="tcp:45171:6" rendition="simple:additions"/> of the <hi>Dutch</hi> richeſt Merchant Men were taken, and their Ree Admiral borded by Captain <hi>John Holmes</hi> in the <hi>Gloceſter</hi> Frigat, who took her, which afterwards ſunk in his poſſeſſion. Captain <hi>de Haes,</hi> Admiral of this <hi>Dutch Smirna</hi> Fleet, was killed in this Engage<g ref="char:EOLhyphen"/>ment.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> His Majeſty with the advice of his Privy Councel, iſſued a Decla<g ref="char:EOLhyphen"/>ration for the maintaining of the Church of <hi>England,</hi> in its Doctrine, Diſcipline, and Government, as it is eſtabliſhed, and for indulging of Non-conformiſts, and diſſenting perſons in matters of Religion.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> His Majeſty in Councel gave order for the publiſhing of his De<g ref="char:EOLhyphen"/>claration of War againſt the States General of the <hi>United Provinces.</hi>
+               </p>
+               <p>And alſo ordered his Proclama<g ref="char:EOLhyphen"/>tion to be iſſued for a general faſt, throughout this Kingdom, for the imploring the bleſſing of Almighty God, on his Majeſties Naval For<g ref="char:EOLhyphen"/>ces, to be kept in <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter, &amp;c.</hi> on Wedneſday the 27th of this Month, and through<g ref="char:EOLhyphen"/>out the reſt of the Kingdom, on <hi>Wedneſday</hi> after Eaſter week.</p>
+               <p>Sir <hi>Edward Spragge,</hi> late Admiral of his Majeſties Fleet in the <hi>Me<g ref="char:EOLhyphen"/>diterranean,</hi> arrived at <hi>Whitehall.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> The Marquis <hi>de Valparacio</hi> was ſhot at <hi>Madrid,</hi>
+                  <note place="margin">N.S.</note> by an unhappy accident, which fell out between the Carpenters of that place, and the Marquis's Gentlemen</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> Difference aroſe at <hi>Bruſſels,</hi> be<g ref="char:EOLhyphen"/>tween the Magiſtrates and the Commonalty, at a Meeting there of the Commonalty,<note place="margin">N.S.</note> call'd the nine <hi>Nations,</hi> about giving their conſent for the raiſing of 300000 Florins more, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> His Majeſty accompanied with his Highneſs Prince <hi>Rupert</hi> went to <hi>Chattam,</hi> whether his Royal Highneſs went before early this morning.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> In <hi>Eſſex,</hi> between 5 and 6. of the Clock after Noon, was ſeen to the Southward of the Sun, and at a pretty diſtance from him, an unu<g ref="char:EOLhyphen"/>ſual appearance of a Rainbow co<g ref="char:EOLhyphen"/>lour, giving a light reſembling that of the Sun, (which was then to be ſeen) which ſeemed to be a Mock-Sun, the fourth of this Month in the morning, 'twas ſeen before though not ſo plainly.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> The <hi>Heer Grotius</hi> Embaſſador from the States General of the <hi>U<g ref="char:EOLhyphen"/>nited Provinces,</hi>
+                  <note place="margin">N.S.</note> had his laſt Au<g ref="char:EOLhyphen"/>dience of his moſt Chriſtian Ma<g ref="char:EOLhyphen"/>jeſty at <hi>Verſailles.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>1672.</head>
+               <p>News of the continuation of the great ſcarcity of Corn at <hi>Naples, Palermo, Zant, Cephalonia,</hi> and <hi>Corfu,</hi> &amp;c. to the great diſtraction of thoſe places, <hi>&amp;c.</hi> and that at <hi>Iſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hia,</hi> an Iſland lying about 150. miles from <hi>Naples,</hi> the Inhabitants had been ſeveral days without bread.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> The faſt was ſolemnly kept in the Cities of <hi>London</hi> and <hi>Weſt-min<g ref="char:EOLhyphen"/>ſter.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> Arrived at <hi>Cologne</hi> the Count of <hi>Hohenfelt,</hi>
+                  <note place="margin">N.S.</note> with the Emperors Ra<g ref="char:EOLhyphen"/>tification of the Treaty concluded by that Elector and that Town.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> War was proclaimed againſt the States General of the <hi>United Provinces</hi> in <hi>London</hi> and <hi>Weſt-min<g ref="char:EOLhyphen"/>ſter.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> A Proclamation relating to Sea<g ref="char:EOLhyphen"/>men and Mariners, having left their
+<pb n="11" facs="tcp:45171:6" rendition="simple:additions"/> ordinary and uſual places of a<g ref="char:EOLhyphen"/>bode, <hi>&amp;c.</hi>
+               </p>
+               <p>Another Proclamation for cal<g ref="char:EOLhyphen"/>ling home all perſons of his Maje<g ref="char:EOLhyphen"/>ſties Subjects, living in the ſer<g ref="char:EOLhyphen"/>vice, <hi>&amp;c.</hi> of the States General of the <hi>United Provinces.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>April.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Dyed at <hi>Paris</hi> Madam <hi>Margui<g ref="char:EOLhyphen"/>rette de Lorraine,</hi>
+                  <note place="margin">N.S.</note> Dutcheſs Dowager of <hi>Orleans,</hi> in the 57. year of her Age.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Deputies of the States of <hi>Britain</hi> had Audience of his moſt Chriſtian Majeſty,<note place="margin">N.S.</note> about ſome matters relating to their Pro<g ref="char:EOLhyphen"/>vince.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> The body of the Dutcheſs Dowager of <hi>Orleans,</hi>
+                  <note place="margin">N.S.</note> was conveyed to St. <hi>Dennis,</hi> where 'twas Inter<g ref="char:EOLhyphen"/>red with the uſual ſolemnities.</p>
+               <p>A Proclamation for the better clenſing of the ſtreets in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> and other adjacent places in the County of <hi>Middleſex.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Was publiſhed at <hi>Paris</hi> the moſt Chriſtian Kings Declaration of War againſt the States General of the <hi>United Provinces.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Monſieur <hi>Durant,</hi> a <hi>French</hi> Cap<g ref="char:EOLhyphen"/>tain of Horſe in the ſervice of the States of <hi>Holland,</hi>
+                  <note place="margin">N.S.</note> was by their or<g ref="char:EOLhyphen"/>der taken into cuſtody.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> Arrived at the <hi>Hague</hi> the Heer <hi>Meerman,</hi>
+                  <note place="margin">N.S.</note> Extraordinary Embaſſa<g ref="char:EOLhyphen"/>dor of the States General of the <hi>United Provinces,</hi> to his Majeſty of <hi>Great Britain.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> He made his report in the Aſ<g ref="char:EOLhyphen"/>ſembly of the States General,<note place="margin">N.S.</note> and afterwards in that of the Councel of State.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Was publiſhed a <hi>Manifeſto</hi> of the Elector of <hi>Cologne,</hi>
+                  <note place="margin">N.S.</note> wherein he de<g ref="char:EOLhyphen"/>clared to be Neuter, during the war between his moſt Chriſtian Majeſty, and the States General of the <hi>United Provinces.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> A Proclamation for recalling and making void all Protections whatſoever, before granted to any Seamen or Marriners, ſerving in any Merchants Ships, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> The Marquis <hi>del Fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o</hi> Embaſ<g ref="char:EOLhyphen"/>ſador Extraordinary, from his moſt Catholick Majeſty to his Majeſty of <hi>Great Britain,</hi> made his publick Entry at <hi>London.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> The <hi>Heer de Groot</hi> late Embaſ<g ref="char:EOLhyphen"/>ſador of the States General of the <hi>United Provinces</hi> at the Court of <hi>France,</hi>
+                  <note place="margin">N.S.</note> arrived at the <hi>Hague.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> Happened an Earth-quake at <hi>Venice,</hi>
+                  <note place="margin">N.S.</note> and at ſome other places, as at <hi>Rimini, Peſaro, Ceſen,</hi> &amp;c. where it appeared violent; eſpe<g ref="char:EOLhyphen"/>cially at <hi>Rimini,</hi> where (as was re<g ref="char:EOLhyphen"/>ported) many of the Inhabitants were killed, and moſt of the Hou<g ref="char:EOLhyphen"/>ſes ruined, with one of the prin<g ref="char:EOLhyphen"/>cipal Churches, and the Biſhop and Clergy of the Place, <hi>&amp;c.</hi> killed in the ſame thereby.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> The <hi>Marquis del Freſno</hi> Embaſ<g ref="char:EOLhyphen"/>ſador Extraordinary from his moſt Catholick Majeſty had his publick Audience of their Majeſties, and afterwards of his Royal Highneſs.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> The two Houſes of Parliament met at <hi>Weſtminſter,</hi> according to their former Prorogation of the 22. of <hi>April</hi> 1671. And further prorogued, in purſuance of his Majeſties Proclamation of the 22. of <hi>September</hi> laſt, till the 30. of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 1672.</p>
+               <p>Was Created the right Honour<g ref="char:EOLhyphen"/>able <hi>John</hi> Earl of <hi>Lauderdail,</hi> Duke of <hi>Lauderdale; Henry</hi> Lord <hi>Ar<g ref="char:EOLhyphen"/>lington,</hi> Earl of <hi>Arlington,</hi> and
+<pb n="2" facs="tcp:45171:7" rendition="simple:additions"/> Viſcount <hi>Thetford; Anthony</hi> Lord <hi>Aſhly,</hi> Earl of <hi>Shaftsbury,</hi> and Ba<g ref="char:EOLhyphen"/>ron <hi>Cooper, &amp;c.</hi> and Sir <hi>Thomas Clifford,</hi> Baron <hi>Clifford</hi> of <hi>Chudleigh.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> The Right Honourable <hi>Henry,</hi> Marquis of <hi>Worceſter, Arthur</hi> Earl of <hi>Eſſex, George</hi> Viſcount <hi>Hallifax,</hi> were ſworn of his Majeſties moſt honourable Privy Councel, and took their places accordingly.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> His Grace the Duke of <hi>Lauder<g ref="char:EOLhyphen"/>dail</hi> was Elected a Knight Com<g ref="char:EOLhyphen"/>panion of the moſt noble Order of the Garter.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> Dyed Sir <hi>Jonathan Dawes</hi> She<g ref="char:EOLhyphen"/>riff and Alderman of the City of <hi>London,</hi> in the 46th. year of his Age.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> Proceeded the Funeral of the Right Reverend Father in God <hi>John Coſin,</hi> late Lord Biſhop of <hi>Durham,</hi> from Sir <hi>Gilbert Gerrads</hi> Houſe in the <hi>Pell Mell</hi> near Saint <hi>James,</hi> in order to the Interment of the ſaid Biſhop, at Biſhops <hi>Auck<g ref="char:EOLhyphen"/>land</hi> near <hi>Durham.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> Was publiſhed at <hi>Paris</hi> an Or<g ref="char:EOLhyphen"/>donance,<note place="margin">N.S.</note> granting ſix months time to all Subjects of the States General of the <hi>United Provinces</hi> in <hi>France,</hi> to withdraw themſelves and their effects with leave and li<g ref="char:EOLhyphen"/>berty to Trade and Trafficque du<g ref="char:EOLhyphen"/>ring that time, but no longer.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> Mr. <hi>Montague</hi> Embaſſador from his Majeſty of <hi>Great Britain</hi> had his Audience of leave of their Ma<g ref="char:EOLhyphen"/>jeſties at St. <hi>Germans,</hi>
+                  <note place="margin">N S.</note> and Mr. <hi>Sid<g ref="char:EOLhyphen"/>ney Godolphin</hi> arrived at <hi>Paris</hi> from <hi>England,</hi> in quality of Envoy Ex<g ref="char:EOLhyphen"/>traordinary.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> His moſt Chriſtian Majeſty part<g ref="char:EOLhyphen"/>ed from St. <hi>Germans</hi> towards <hi>Nan<g ref="char:EOLhyphen"/>tevil,</hi>
+                  <note place="margin">N.S.</note> where he lodged this night.</p>
+            </div>
+            <div type="part">
+               <head>May. 1672</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Sir <hi>Thomas Oſborne</hi> Baronet, was ſworn of His <hi>Majeſties</hi> moſt Hon<g ref="char:EOLhyphen"/>ourable Privy Counſel, and took his place accordingly.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> News that the <hi>Count d'Eſtrees</hi> Vice-Admiral of <hi>France,</hi> was with the Squadron of <hi>French</hi> Ships ar<g ref="char:EOLhyphen"/>rived at St. <hi>Helens</hi> in the Iſle of <hi>Wight.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> There happened at <hi>Rimini</hi> ſo violent a ſtorm,<note place="margin">N.S.</note> as to throw to the ground all the Houſes the Earth-quake, which had not long before happened there, had left ſtanding.</p>
+               <p>At <hi>Bologna</hi> and <hi>Ferrara</hi> moſt of their Vines were ruined, and their Corn blaſted, to the undoing of thoſe Inhabitants.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Dyed at <hi>Madrid</hi> the Cardinal <hi>de Moncada,</hi>
+                  <note place="margin">N.S.</note> Duke of <hi>Montalto.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> His Majeſty parted from <hi>White<g ref="char:EOLhyphen"/>hall</hi> for <hi>Portſmouth,</hi> and his Royal Highneſs paſſed with his Majeſties Fleet by <hi>Dover</hi> weſtward, in order to a Conjunction with the <hi>French</hi> Squadron.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Her Majeſty parted from <hi>White<g ref="char:EOLhyphen"/>hall</hi> towards <hi>Deal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> His moſt Chriſtian Majeſty ar<g ref="char:EOLhyphen"/>rived at <hi>Charle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+                  <note place="margin">N.S.</note> accompanied with the Duke of <hi>O<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ans.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> The <hi>Dutch</hi> Fleet was riding in <hi>Dover</hi> road.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> His Majeſty returned from <hi>Portſ<g ref="char:EOLhyphen"/>mouth</hi> to <hi>Whitehall.</hi>
+               </p>
+               <p>And her Majeſty from <hi>Dover.</hi>
+               </p>
+               <p>A fire at <hi>Hamb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>row,</hi> which be<g ref="char:EOLhyphen"/>ginning in a Merchants-Houſe, in ſome hours divers conſiderable Houſes, where thereby conſumed.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> His moſt Chriſtian Majeſty cau<g ref="char:EOLhyphen"/>ſed a review to be made of his For<g ref="char:EOLhyphen"/>ces at <hi>Charleroy.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> The <hi>Dutch</hi> Fleet ſtood for <hi>Ca<g ref="char:EOLhyphen"/>lais,</hi> where it Anchored this night.</p>
+               <pb n="13" facs="tcp:45171:7" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> His Majeſty in Councel order<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> that the Act of Parliament made in the 12th. year of his Raign, for the encouraging and increaſing of Shipping and Navi<g ref="char:EOLhyphen"/>gation, <hi>&amp;c.</hi> ſhould be ſuſpended totally, <hi>&amp;c.</hi> concerning or relating to any Ships or Veſſels, their Ma<g ref="char:EOLhyphen"/>ſters or Marriners, their Guns, Furniture, Tackle, <hi>&amp;c.</hi> or to any Goods or Commodities Imported or Exported to or for <hi>Norway,</hi> or the Baltick Sea.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> The <hi>Dutch</hi> Fleet was ſeen at the back of the <hi>Goodwin.</hi>
+               </p>
+               <p>The States General of the <hi>Uni<g ref="char:EOLhyphen"/>ted Provinces,</hi> publiſhed a Placaet, forbidding their own Subjects to Trade for <hi>England</hi> or <hi>France,</hi> from any Countreys whatſoever, <hi>&amp;c.</hi> as likewiſe all Strangers, though not inhabiting within the ſaid <hi>United Provinces,</hi> to tranſport any Goods or Commodities out of their Ter<g ref="char:EOLhyphen"/>ritories, for the ſaid Kingdoms, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> The <hi>Dutch</hi> Fleet was plying too and again N. N. E. off the <hi>North Forelands.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> His moſt Chriſtian Majeſty part<g ref="char:EOLhyphen"/>ed from <hi>Charleroy,</hi>
+                  <note place="margin">N.S.</note> accompanied with the Duke of <hi>Orleans,</hi> with all his Troops, who marched in three bodies, and lodged this night at <hi>Tongres.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> They continued their march to<g ref="char:EOLhyphen"/>wards <hi>Pirove,</hi>
+                  <note place="margin">N.S.</note> two leagues and a half from <hi>Tongres,</hi> where his ſaid Majeſty Encamped.</p>
+               <p>The Viſcount <hi>Turrenne</hi> arrived with his Forces at <hi>Luden.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> The moſt Chriſtian King with his Army parted from <hi>Pirove,</hi>
+                  <note place="margin">N S.</note> and arrived at <hi>Bran<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> The <hi>Gloceſter</hi> with ten of his Ma<g ref="char:EOLhyphen"/>jeſties Fregats, came to an Anchor below the <hi>Gunfleet.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> Several broad ſides were ex<g ref="char:EOLhyphen"/>changed between the ſaid Fregats and ſome <hi>Dutch</hi> Ships.</p>
+               <p>His Royal Highneſs appeared with his Majeſties Fleet within fight of <hi>Dover.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> His moſt Chriſtian Majeſty at the head of his Troops marched to <hi>grand Hach,</hi>
+                  <note place="margin">N.S.</note> where they En<g ref="char:EOLhyphen"/>camped upon a large Plain.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> His Majeſty of Great <hi>Britain</hi> commanded and ordered, that the Ships, Goods, and Marchandizes of the Subjects of the States Gene<g ref="char:EOLhyphen"/>ral of the <hi>United Provinces,</hi> ſeized in any of his Ports, before the Declaration of War, ſhould be forth with ſet at liberty, <hi>&amp;c.</hi> and that all <hi>Dutch</hi> Merchants, or o<g ref="char:EOLhyphen"/>thers, who neither in their Perſons or Goods were under this Deten<g ref="char:EOLhyphen"/>tion, might freely depart this King<g ref="char:EOLhyphen"/>dom, <hi>&amp;c.</hi>
+               </p>
+               <p>A Releaſement was alſo made by the States General of the <hi>Uni<g ref="char:EOLhyphen"/>ted Provinces,</hi> of all <hi>Engliſh</hi> and <hi>Scotch</hi> Veſſels ſtopt in any of their Territories, before the ſaid Decla<g ref="char:EOLhyphen"/>ration of War, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> The <hi>French</hi> Army removed from <hi>Grand Hach,</hi>
+                  <note place="margin">N. S.</note> and marched to <hi>Frere.</hi>
+               </p>
+               <p>The Inhabitants of <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eyck</hi> per<g ref="char:EOLhyphen"/>ſwaded to take in <hi>French</hi> Forces, in order to the fortifying thereof.</p>
+               <p>Arrived at <hi>Tongues</hi> 80. Waggons laden with Corn, for the uſe of the <hi>French,</hi> bought up in the parts a<g ref="char:EOLhyphen"/>bout <hi>Viſet.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> His Royal Highneſs came with his Majeſties Fleet to an Anchor near the <hi>Falls.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> Sir <hi>Jonathan Dawes,</hi> Sheriff and Alderman of the City of <hi>London,</hi> was honourably Interred in Saint <hi>Katherines Creed</hi> Church.</p>
+               <pb n="14" facs="tcp:45171:8" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> His moſt Chriſtian Majeſty, <hi>&amp;c.</hi> Encamped with his Army in the great Valley near <hi>Viſet,</hi>
+                  <note place="margin">N.S.</note> all along and beyond the <hi>Meuſe.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> His Majeſties Fleet under the Command of his Royal Highneſs, appeared at the <hi>North-ſand</hi> head, ſtanding Northwards.</p>
+               <p>Thoſe of his Majeſties Fregats, under the Command of Captain <hi>Coleman</hi> in the <hi>Gloceſter,</hi> came to an Anchor in the <hi>Buoy</hi> of the <hi>Gun<g ref="char:EOLhyphen"/>fleet.</hi>
+               </p>
+               <p>The <hi>Dutch</hi> Fleet after the re<g ref="char:EOLhyphen"/>turn of their Squadron out of the River, weighed out of the <hi>Gunfleet</hi> and in the Evening appeared in ſight of <hi>Alborough,</hi> and came to an Anchor within four or five leagues thereof.</p>
+               <p>
+                  <hi>Maeſtricht</hi> almoſt blooked up by the <hi>French.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> His Majeſties Fregats under the Command of Captain <hi>Coleman,</hi> ſet Sail in order to a Conjunction with his Majeſties Fleet.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> His Majeſties Fleet under the Command of his Royal Highneſs, got ſight of the <hi>Dutch</hi> Fleet, about eight leagues E. S. E. of the <hi>Gun<g ref="char:EOLhyphen"/>fleet.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> His Majeſties Fleet under the command of his Royal Highneſs appeared this Evening, ſtanding in for <hi>Southwould Bay,</hi> and came to an Anchor about four leagues thereof.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> The Sluces at <hi>Lillo</hi> were open<g ref="char:EOLunhyphen"/>ed,<note place="margin">N.S.</note> and all the Polders ſet under water, as were likewiſe the Low<g ref="char:EOLhyphen"/>lands about <hi>Bergen-op-Zoom.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> A Proclamation, that it ſhould be lawful to and for his Majeſties Subjects, as well Merchants as o<g ref="char:EOLhyphen"/>thers, to ſet out Ships to Sea, and to carry on their Trade and Com<g ref="char:EOLhyphen"/>merce, as fully, <hi>&amp;c.</hi> as they could or might have done, if no reſtraint or imbargo formerly had been made, <hi>&amp;c.</hi> and that all paſſes and protections for Ships and Marri<g ref="char:EOLhyphen"/>ners formerly granted, ſhould be in full force and effect.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> Arrived at <hi>Copenhagen</hi> his Grace the Duke of <hi>Richmond,</hi>
+                  <note place="margin">N.S.</note> Extraordi<g ref="char:EOLhyphen"/>nary Embaſſador from his Maje<g ref="char:EOLhyphen"/>ſty of Great <hi>Britain.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> A Bridge over the <hi>Rhyne</hi> was wholly finiſhed,<note place="margin">N.S.</note> at or about <hi>Key<g ref="char:EOLhyphen"/>ſarwaert,</hi> where the <hi>French</hi> Army quickly after paſſed over.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> His moſt Chriſtian Majeſty and his whole Army decamped from <hi>Viſet,</hi>
+                  <note place="margin">N.S.</note> and paſſing the <hi>Meuſe</hi> over a Bridge of Boats, encamped a<g ref="char:EOLhyphen"/>bout half a league from <hi>Viſet</hi> afore<g ref="char:EOLhyphen"/>ſaid.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> The Biſhop of <hi>Liege</hi> came to complement his moſt Chriſtian Majeſty upon his arrival in thoſe parts.<note place="margin">N. S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> A ſuddain and violent fire broke out in the houſe of a Tobacco and Strong-water ſeller, at the I<g ref="char:EOLhyphen"/>ron gate near the <hi>Tower,</hi> doing conſiderable miſchief.</p>
+               <p>News that at <hi>Zant, Zeffalonia,</hi> and <hi>Corfu,</hi> the Inhabitants were in ſo great want of Corn, that ſeveral men did daily ſell themſelves to the Galleys, only to have a ſmall ſuſtenance for life.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> A ſharp Sea-fight happened to<g ref="char:EOLhyphen"/>wards <hi>Southwould, Laytoff,</hi> &amp;c. be<g ref="char:EOLhyphen"/>tween his Majeſties Fleet, under the Command of his Royal High<g ref="char:EOLhyphen"/>neſs, and the <hi>Dutch,</hi> in which the Royal <hi>James</hi> was burnt.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> Dyed Sir <hi>John Trevor,</hi> one of his Majeſties principal Secreraries of State, and one of his moſt ho<g ref="char:EOLhyphen"/>nourable Privy Councel, in the
+<pb n="15" facs="tcp:45171:8" rendition="simple:additions"/> fourty ſeventh year of his Age.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> Being the great Anniverſary of his Majeſties Birth and happy Re<g ref="char:EOLhyphen"/>ſtoration, was Celebrated at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with great demonſtrations of publick joy, <hi>&amp;c.</hi> a new Conduit of a noble and beautiful Structure being opened in the Stocks Mar<g ref="char:EOLhyphen"/>ket Place, near <hi>Lumbard</hi> ſtreet, running Claret for divers hours, &amp;c. erected at the ſole charge of Sir <hi>Robert Viner,</hi> &amp;c.</p>
+               <p>'Twas alſo Celebrated at <hi>Lyn,</hi> with great demonſtrations of pu<g ref="char:EOLhyphen"/>blick joy.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> The Right Honourable <hi>Henry,</hi> Marquis of <hi>Worceſter,</hi> the Earl of St. <hi>Albans,</hi> and the Earl of <hi>Bed<g ref="char:EOLhyphen"/>ford,</hi> were Elected Knights Com<g ref="char:EOLhyphen"/>panions of the moſt noble Order of the Garter.</p>
+               <p>His moſt Chriſtian Majeſty ha<g ref="char:EOLhyphen"/>ving with his Army paſſed the <hi>Rhyne</hi> at <hi>Keyſerweart,</hi> arrived at <hi>Holtzen,</hi> a ſmall place not far from <hi>Nuis,</hi> where his Majeſty was met by the Elector of <hi>Cologne.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Iune.</head>
+               <p>His moſt Chriſtian Majeſty with his Army marched towards <hi>Rhyne<g ref="char:EOLhyphen"/>berg.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Was honourably interred Sir <hi>John Trevor</hi> at St. <hi>Bartholomews</hi> in <hi>Smithfield.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> His Majeſties Fleet, under the command of his Royal Highneſs, came to an Anchor in <hi>Sole Bay.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Fleet weighed again and ſtood to Sea.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Dutcheſs <hi>d'Enguine</hi> was brought to Bed of a Son at Saint <hi>Germanes.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> His Grace the Duke of <hi>Lauder<g ref="char:EOLhyphen"/>dale,</hi> by a Proxy, the right ho<g ref="char:EOLhyphen"/>nourable <hi>Henry</hi> Marquis of <hi>VVor<g ref="char:EOLhyphen"/>ceſter,</hi> the Earl of St. <hi>Albans,</hi> and the Earl of <hi>Bedford,</hi> were enſtal<g ref="char:EOLhyphen"/>led at <hi>VVinſor</hi> Knights of the moſt noble Order of the Garter.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Was Interred in the Quire of <hi>Rocheſter</hi> Monſieur <hi>Rabiniere tres le Bos,</hi> Reer-Admiral of the <hi>French</hi> Squadron, who dyed at <hi>Chattam</hi> of the wounds he had received in the late Engagement.</p>
+               <p>Great troubles began to ſeize upon the people of the <hi>United Pro<g ref="char:EOLhyphen"/>vinces,</hi> by the appearance of the <hi>French</hi> Armies, who Beſieging <hi>Rhyneberg, Orſoy, VVeſel,</hi> and <hi>Burick,</hi> were quickly poſſeſſed of them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Fell a violent Rain at <hi>Madrid</hi> with much Thunder,<note place="margin">N.S.</note> which broke down a part of the Tower of the Covent of the Holy <hi>Trinity;</hi> The Lightning ſcorched one of the Fa<g ref="char:EOLhyphen"/>thers, and killed three men with<g ref="char:EOLhyphen"/>out the Gates.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Arrived a Bode or Meſſenger (at <hi>Harwich</hi>) of the States Gene<g ref="char:EOLhyphen"/>ral of the <hi>United Provinces,</hi> on his way to the <hi>Dutch</hi> Embaſſador at <hi>London.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Arrived at <hi>Edinbergh</hi> his Grace the Duke of <hi>Lauderdale,</hi> his Maje<g ref="char:EOLhyphen"/>ſties High Commiſſioner of <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> The body of the Earl of <hi>Sand<g ref="char:EOLhyphen"/>wich</hi> was diſcovered floating on the Sea, by one of his Majeſties Ketches, and brought up to <hi>Har<g ref="char:EOLhyphen"/>wich.</hi>
+               </p>
+               <p>His moſt Chriſtian Majeſties Armies appearing before <hi>Rees,</hi> quickly made that and <hi>Emmerick</hi> their own; as the Biſhop of <hi>Mun<g ref="char:EOLhyphen"/>ſter</hi> did <hi>Doetechem, Groll,</hi> and <hi>Bor<g ref="char:EOLhyphen"/>kelo,</hi> after the taking of <hi>Rees</hi> and <hi>Emmerick</hi> the <hi>French</hi> proceeded to <hi>Skenkſcance</hi> of the <hi>Rhyne,</hi> in order
+<pb n="16" facs="tcp:45171:9" rendition="simple:additions"/> to a paſſing the River about <hi>Tol<g ref="char:EOLhyphen"/>huys.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> His Majeſty gave order for the publiſhing of his Gracious Decla<g ref="char:EOLhyphen"/>ration, towards all ſuch Subjects of the <hi>Low Countreys,</hi> as ſhould come into his Kingdom, <hi>&amp;c.</hi>
+               </p>
+               <p>His Grace the Duke of <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> his Majeſties extraordinary Embaſſador to the Crown of <hi>Deu<g ref="char:EOLhyphen"/>mark,</hi> made his publick Entry at <hi>Copenhagen.</hi>
+               </p>
+               <p>A Proclamation, forewarning and ſtraitly commanding all his Majeſties Subjects, <hi>&amp;c.</hi> not by writ<g ref="char:EOLhyphen"/>ing or ſpeaking, to utter or pu<g ref="char:EOLhyphen"/>bliſh any falſe news or reports.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> At mid-night her Majeſty of <hi>France</hi> was brought to Bed of a young Prince.<note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> A ſolemn Proceſſion at <hi>Paris,</hi> on occaſion of his moſt Chriſtian Majeſties good ſucceſs againſt the <hi>Dutch.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> A tumult at the <hi>Hague,</hi> the peo<g ref="char:EOLhyphen"/>ple throwing ſtones at the houſe of the Heer van <hi>Mombas.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> Bonfires at <hi>Paris,</hi> and other de<g ref="char:EOLhyphen"/>monſtrations of publick joy,<note place="margin">N.S.</note> for the birth of the young Prince.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> The right honourable <hi>Henry,</hi> Earl of <hi>Arlington,</hi> elected a Knight Companion of the moſt noble or<g ref="char:EOLhyphen"/>der of the Garter.</p>
+               <p>News that the <hi>French</hi> had paſ<g ref="char:EOLhyphen"/>ſed the <hi>Rhyne</hi> into the <hi>Betuwe,</hi> that <hi>Utrecht</hi> had yielded to his moſt Chriſtian Majeſty, and that the <hi>French</hi> Troops were advanced as far as <hi>Amersford,</hi> and that the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Munſter</hi> had taken <hi>Swoll</hi> and <hi>Breefort,</hi> the <hi>French Knotzen<g ref="char:EOLhyphen"/>bergh,</hi> and that <hi>Culenbergh, Tiel, Buren,</hi> &amp;c. had yielded to the <hi>French,</hi> that <hi>Raveſtine</hi> was demoliſhed by them, and that <hi>Scenckſcance,</hi> and <hi>Arnhem</hi> were alſo taken, &amp; that the common people began to be very rumultuous at <hi>Middlebourgh;</hi> and that at <hi>Amſterdam</hi> they were late<g ref="char:EOLhyphen"/>ly in danger of being plundered by the commonalty, and that the Countrey there abouts, as alſo at <hi>Dort, &amp;c.</hi> was ſet under water for ſome leagues together, to hinder the approach of the <hi>French;</hi> as alſo at <hi>Rotterdam, Leyden,</hi> and <hi>Delf,</hi> that the common people were ve<g ref="char:EOLhyphen"/>ry unruly and tumultuous.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> The two young Counts <hi>Tillions</hi> two brothers,<note place="margin">N.S.</note> were Aſſaſſinated at <hi>Mons</hi> by ſeven or eight <hi>Spani<g ref="char:EOLhyphen"/>ards,</hi> as they were coming out of the Church.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> The Trenches were opened be<g ref="char:EOLhyphen"/>fore <hi>Daesburgh.</hi>
+                  <note place="margin">N S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> A great tumult at <hi>Dort</hi> amongſt the Inhabitants,<note place="margin">N.S.</note> in which the peo<g ref="char:EOLhyphen"/>ple would have been killing and plundering their Burgemaſter, and other chief Officers of the Town, had not the Lords preſently de<g ref="char:EOLhyphen"/>clared his Highneſs the Prince of <hi>Orange</hi> their Governour and Stadt<g ref="char:EOLhyphen"/>holder.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> His Grace the Duke of <hi>Bucks,</hi> the right honourable the Earl of <hi>Arlington,</hi> the Earl of <hi>Shaftsbury,</hi> and the Lord <hi>Clifford</hi> went to the Deputies of the States General of the <hi>United Provinces</hi> at <hi>Hampton</hi> Court.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> 
+                  <hi>Doesburgh</hi> yielded to the <hi>French.</hi>
+               </p>
+               <p>
+                  <note place="margin">N.S.</note>The Count <hi>Conningſmark,</hi> Em<g ref="char:EOLhyphen"/>baſſador Extraordinary from the Crown of <hi>Sweden,</hi> had Audience of his moſt Chriſtian Majeſty.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> The right honourable the Earl of <hi>Arlington,</hi> was at <hi>Windſor,</hi> by a Proxy, enſtalled Knight of the moſt noble Order of the Garter.</p>
+               <pb n="17" facs="tcp:45171:9" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> His Grace the Duke of <hi>Bucks,</hi> and the right honourable the Earl of <hi>Arlington,</hi> began their journey for <hi>Holland,</hi> as his Majeſties extra<g ref="char:EOLhyphen"/>ordinary Embaſſadors and Pleni<g ref="char:EOLhyphen"/>potentiaries.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> Their Excellencies parted in the <hi>Katherine</hi> and <hi>Henrietta</hi> Yachts from the <hi>Buoy</hi> in the <hi>Nore.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> His moſt Chriſtian Majeſty had advice of the taking of <hi>Deventer,</hi>
+                  <note place="margin">N.S.</note> and that <hi>Swoll, Campen, Elborough, Arderwick Hatten, Haſſelt,</hi> and <hi>Ommen,</hi> &amp;c. had yielded upon ſum<g ref="char:EOLhyphen"/>mons.</p>
+               <p>His Majeſty had an account of the taking alſo of the Forts of <hi>Voorne</hi> and St. <hi>Andre.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> His Grace the Duke of <hi>Bucks,</hi> and the right honourable the Earl of <hi>Arlington</hi> arrived at the <hi>Maes,</hi> Landed at <hi>Maeſland Sluice,</hi> and in the evening arrived at the <hi>Hague.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> The Biſhop of <hi>Strasburgh</hi> arriv<g ref="char:EOLhyphen"/>ed at the <hi>French</hi> Camp,<note place="margin">N.S.</note> and had Audience of the moſt Chriſtian King.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> The Biſhop of <hi>Munſter</hi> arrived there,<note place="margin">N.S.</note> had (after his Majeſty had had ſome conference with him) a Croſs of Diamonds, of very great value, preſented unto him by his moſt Chriſtian Majeſty, and ſo re<g ref="char:EOLhyphen"/>turned to his Army.</p>
+               <p>The Baron <hi>de Metemiche,</hi> En<g ref="char:EOLhyphen"/>voy from the Elector of <hi>Treves,</hi> had likewiſe Audience of the ſaid King.</p>
+               <p>And this night came news to his moſt Chriſtian Majeſty, of the ſurrender of <hi>Zutphen.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> His moſt Chriſtian Majeſty part<g ref="char:EOLhyphen"/>ed from <hi>Biloni</hi> towards <hi>Ameron<g ref="char:EOLhyphen"/>gen.</hi>
+                  <note place="margin">N. S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> His ſaid Majeſty arrived at <hi>A<g ref="char:EOLhyphen"/>merongen.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>The Sieur <hi>de Groot</hi> arrived in the <hi>French</hi> Camp with ample power, <hi>&amp;c.</hi> from the States Ge<g ref="char:EOLhyphen"/>neral of the <hi>United Provinces.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> Dyed not far from <hi>Rome</hi> Cardi<g ref="char:EOLhyphen"/>nal <hi>Franciſco Mancini,</hi>
+                  <note place="margin">N.S.</note> in the 66. year of his age, and 15th. of his <hi>Cardinalato.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> His Royal Highneſs with his Majeſties Fleet, came to an An<g ref="char:EOLhyphen"/>chor off of <hi>Harwich.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> Set Sail for the Coaſt of <hi>Hol<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> At <hi>Dort</hi> his Highneſs the Prince of <hi>Orange,</hi>
+                  <note place="margin">N.S.</note> by an Act was made Stadt-holder.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> His Majeſties Fleet in the even<g ref="char:EOLhyphen"/>ing appeared within ſix leagues of the <hi>Brill.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Iuly.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The States of <hi>Holland</hi> conclud<g ref="char:EOLhyphen"/>ed, that the perpetual Edict of their never admitting of a Stadt-holder, ſhould ceaſe, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Grave</hi> yielded to the <hi>French.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The States of <hi>Zealand</hi> made his Highneſs the Prince of <hi>Orange,</hi> Stadtholder of that Province, &amp;c.</p>
+               <p>His Highneſs was alſo made Stadtholder of <hi>Holland</hi> quickly af<g ref="char:EOLhyphen"/>ter, and declared Stadt-holder at <hi>Amſterdam.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The body of the Earl of <hi>Sand<g ref="char:EOLhyphen"/>wich,</hi> (which was taken up at Sea) was magnificently Interred in King <hi>Henry</hi> the 7th's Chappel, in the Vault on the North ſide of the Quire.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Henry Coventry</hi> Eſq ſworn into the place of his Majeſties princi<g ref="char:EOLhyphen"/>pal Secretary of State, in the room of Sir <hi>John Trevor</hi> deceaſed.</p>
+               <p>Sworn alſo together with Sir <hi>Robert Long</hi> Knight and Baronet,
+<pb n="18" facs="tcp:45171:10"/> of his Majeſties moſt honourable Privy Councel, and took their pla<g ref="char:EOLhyphen"/>ces accordingly.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Their Excellencies the Duke of <hi>Buckingham,</hi> and the Earl of <hi>Ar<g ref="char:EOLhyphen"/>lington,</hi> arrived at <hi>Utrecht</hi> from the <hi>Hague.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Had their publick Audience of his moſt Chriſtian Majeſty in his quarters in the Camp.</p>
+               <p>Arrived at <hi>Utrecht</hi> the Viſcount <hi>Hallifax,</hi> Envoy extraordinary from his Majeſty of Great <hi>Bri<g ref="char:EOLhyphen"/>tain.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Had his Audience of the moſt Chriſtian King in his Camp.<note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <hi>Nimmegen</hi> taken by the <hi>French.</hi>
+               </p>
+               <p>The Commonalty at <hi>Rotterdam</hi> plundered the houſe of one of their Magiſtrates, and beat out the windows of another, and ſeveral Articles were preſented by the Citizens to the Burgermaſters and common Councel of the ſame, &amp;c. relating to the Prince of <hi>Orange.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> The Commiſſion of Stadtholder, was delivered at the <hi>Hague</hi> to his Highneſs the Prince of <hi>Orange.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> His moſt Chriſtian Majeſty with his whole Army,<note place="margin">N.S.</note> decamped from <hi>Zeyſt,</hi> and took his way towards <hi>Boiſleduck</hi> by the way of <hi>Arnehem, Nimmegen,</hi> &amp;c. leaving the Duke of <hi>Luxemburgh,</hi> with a conſiderable Force in the Province of <hi>Utrecht,</hi> which Province was now wholly poſſeſſed by the <hi>French.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> The <hi>French</hi> Army Encamped half a mile from <hi>Rhenen.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> Under the Walls of <hi>Arnehem.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> 
+                  <note place="margin">N.S.</note>Happened at <hi>Venice</hi> a violent ſtorm with Thunder and Hail, of an extraordinary bigneſs.<note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> His moſt Chriſtian Majeſty paſ<g ref="char:EOLhyphen"/>ſed over with his Army at two or three ſeveral places of the <hi>Rhyne,</hi>
+                  <note place="margin">N.S.</note> and Encamped within half a league of <hi>Nimmegen.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> 
+                  <hi>Covoerden</hi> ſurrendred to the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Munſter.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> Arrived at <hi>Vienna</hi> the Prince d'<hi>Anhalt</hi> from <hi>Berlin,</hi>
+                  <note place="margin">N.S.</note> with full power to conclude a Treaty with the Emperor and the Elector of <hi>Brandenburgh,</hi> for the defence of the Empire.</p>
+               <p>Certain news of the continuati<g ref="char:EOLhyphen"/>on of the difference between the Duke of <hi>Savoy,</hi> and the States of <hi>Genoua,</hi> a War being begun be<g ref="char:EOLhyphen"/>tween them ſome time before. The Duke of <hi>Savoy</hi>'s Troops, ta<g ref="char:EOLhyphen"/>king (or attempting upon) <hi>Pie<g ref="char:EOLhyphen"/>vé.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> A Veſſel arrived at <hi>Harwich</hi> from his Majeſties Fleet, giving an account that the ſaid Fleet was in a good condition upon the Coaſt of <hi>Holland,</hi> and that his Royal Highneſs was in perfect health.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> The Sieur <hi>Pelnitz</hi> arrived at the <hi>Hague,</hi>
+                  <note place="margin">N.S.</note> on the part of the Elector of <hi>Brandenburgh.</hi>
+               </p>
+               <p>The <hi>Engliſh</hi> Embaſſadors and Plenipotentiaries lodged at <hi>Nim<g ref="char:EOLhyphen"/>megen.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> His moſt Chriſtian Majeſty ſaw his Army paſs the <hi>Waal,</hi>
+                  <note place="margin">N.S.</note> and than it marched to <hi>Grave.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> The Army repoſed it ſelf at <hi>Grave.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> The Army removed two lea<g ref="char:EOLhyphen"/>gues further,<note place="margin">N.S.</note> to a place called <hi>Box<g ref="char:EOLhyphen"/>tel.</hi>
+               </p>
+               <p>
+                  <hi>Crevecoeur</hi> taken by the <hi>French.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/> The <hi>Engliſh</hi> Embaſſadors and Plenipotentiaries,<note place="margin">N.S.</note> parted from the <hi>French</hi> Camp at <hi>Boxtel</hi> towards <hi>Antwerp,</hi> and lodged at <hi>Turn<g ref="char:EOLhyphen"/>hault.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> They arrived at <hi>Antwerp.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <pb n="19" facs="tcp:45171:10" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> Was honourably Interred in the Pariſh Church of <hi>Bumſtead</hi> of the <hi>Tower</hi> in <hi>Eſſex,</hi> that moſt ac<g ref="char:EOLhyphen"/>compliſhed and aged Gentleman, Sir <hi>Thomas Bendiſh</hi> Baronet, for<g ref="char:EOLhyphen"/>merly for very many years toge<g ref="char:EOLhyphen"/>ther Embaſſador in <hi>Turky.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> 
+                  <hi>Bommel</hi> ſurrendred to the <hi>French.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> His Majeſties Plenipotentiaries, the Duke of <hi>Bucks,</hi> the Earl of <hi>Arlington,</hi> and the Lord Viſcount <hi>Hallifax</hi> returned to <hi>Whitehall.</hi>
+               </p>
+               <p>His Majeſty conferred the ho<g ref="char:EOLhyphen"/>nour of Knighthood upon <hi>Henry Ford</hi> Eſq Secretary to the Earl of <hi>Eſſex,</hi> as likewiſe on Captain <hi>John Edgeworth.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> The Earl of <hi>Eſſex,</hi> Lord Lieu<g ref="char:EOLhyphen"/>tenant of <hi>Ireland,</hi> began his jour<g ref="char:EOLhyphen"/>ney towards that Kingdom.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/> The <hi>Cambridge</hi> and <hi>Briſtol</hi> Fri<g ref="char:EOLhyphen"/>gats, met the <hi>Dutch East-India</hi> Fleet, ten or twelve leagues to the Weſt-ward of <hi>Heylige Landt,</hi> where they hotly engaged them.</p>
+               <p>A Proclamation that no perſon or perſons whatſoever, ſhould im<g ref="char:EOLhyphen"/>port, or cauſe to be imported into <hi>England, VVales,</hi> or <hi>Barwick</hi> up<g ref="char:EOLhyphen"/>on <hi>Tweed,</hi> any kind or ſort of Painted Earthen Wares, whatſoe<g ref="char:EOLhyphen"/>ver, except thoſe of <hi>China,</hi> and ſtone Bottles, and Jugs, <hi>&amp;c.</hi> up<g ref="char:EOLhyphen"/>on pain of being grieviouſly fi<g ref="char:EOLhyphen"/>ned, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="26"/> His moſt Chriſtian Majeſty parted from the Camp at <hi>Boxtel,</hi>
+                  <note place="margin">N.S.</note> for the Abbey of <hi>Postel,</hi> parted from thence towards <hi>Berningnen,</hi> proceeded to <hi>Lummen,</hi> where he lodged this night.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> The Sieur <hi>Mombas</hi> made his eſcape out of Priſon at the <hi>Hague.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>Was brought to the <hi>Hague</hi> Pri<g ref="char:EOLhyphen"/>ſoner from <hi>Dort,</hi> the Sieur <hi>de Wit, Ruwaert van Putten.</hi>
+               </p>
+               <p>News that <hi>Groningen</hi> was cloſe Beſieged by the Biſhop of <hi>Mun<g ref="char:EOLhyphen"/>ſter.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> His moſt Chriſtian Majeſty re<g ref="char:EOLhyphen"/>turned to <hi>St. Germanes.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+            </div>
+            <div type="part">
+               <head>Auguſt.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Was concluded the Treaty for the publick ſecurity,<note place="margin">N.S.</note> and general Defence of the Empire.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Earl of <hi>Euſton</hi> was married to the onely Daughter of the Earl of <hi>Arlington.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Sieur <hi>Pelnitz,</hi> Envoy from the Elector of <hi>Brandenburgh,</hi>
+                  <note place="margin">N.S.</note> took his leave of the States General of the <hi>United Provinces,</hi> in order to his return home.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Then Penſionary <hi>de Wit</hi> was in the Aſſembly of the States of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi>
+                  <note place="margin">N.S.</note> endeavouring to clear him<g ref="char:EOLhyphen"/>ſelf of ſeveral matters whereof he ſtood accuſed.</p>
+               <p>The <hi>Dutch</hi> Fleet Northward of the <hi>Maes.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> The Earl of <hi>Eſſex,</hi> Lord Lieute<g ref="char:EOLhyphen"/>nant of <hi>Ireland,</hi> arrived at <hi>Dunlary,</hi> and about three in the afternoon arrived at <hi>Dublin.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Happened a great diſturbance at <hi>Middleburgh,</hi>
+                  <note place="margin">N.S.</note> between the Ma<g ref="char:EOLhyphen"/>giſtrates and Burghers, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> 
+                  <hi>Te Deum</hi> was ſung in the Church<g ref="char:EOLhyphen"/>es at <hi>Genoua,</hi>
+                  <note place="margin">N.S.</note> for the Victory their Forces had lately obtained over thoſe of the Duke of <hi>Savoy</hi> at <hi>Ca<g ref="char:EOLhyphen"/>ſtello Vecchio.</hi>
+               </p>
+               <p>
+                  <hi>Maeſtricht</hi> more then ever block<g ref="char:EOLhyphen"/>ed up by the <hi>French,</hi> by their lying quartered round about it.</p>
+               <pb n="20" facs="tcp:45171:11" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> Was exchanged with the <hi>French</hi> Embaſſador at <hi>London,</hi> the Ratifi<g ref="char:EOLhyphen"/>cation of the Treaty concluded by his Majeſties late Plenipotentia<g ref="char:EOLhyphen"/>ries in the <hi>French</hi> Camp, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> The <hi>French</hi> paſſed on both ſides the River,<note place="margin">N.S.</note> near the Fort of <hi>Na<g ref="char:EOLhyphen"/>vaigne,</hi> with a very conſiderable Army towards <hi>Maeſtricht,</hi> and quickly after as it were quite ſur<g ref="char:EOLhyphen"/>rounded <hi>Maeſtricht,</hi> and drew a line of Circumvalation between on <hi>Ravens</hi> Houſe, and a ſmall Village called <hi>Scharen,</hi> to defend them<g ref="char:EOLhyphen"/>ſelves againſt the Sallyes of that Garrizon.</p>
+               <p>News of <hi>Oneglia</hi>'s ſurrender to the <hi>Genoueſes.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> A Proclamation, touching half pence and farthings, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> Great diſorders at <hi>Delf.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> 
+                  <note place="margin">N.S.</note>Mr. <hi>Cornelis de VVit,</hi> ancient Burghermaſter of the Town of <hi>Dort,</hi>
+                  <note place="margin">N.S.</note> and <hi>Ruward</hi> of the Lands of <hi>Putten,</hi> was Sentenced by the Court of <hi>Holland</hi> and <hi>Weſt-Frieſ<g ref="char:EOLhyphen"/>land,</hi> to be baniſhed out of thoſe Provinces, and to looſe all his Dignities and Imployments poſſeſ<g ref="char:EOLhyphen"/>ſed by him, <hi>&amp;c.</hi>
+               </p>
+               <p>He and his Brother the Penſio<g ref="char:EOLhyphen"/>nary <hi>de Wit</hi> killed by the people at the <hi>Hague,</hi> in a moſt notorious manner, and their dead bodies hanged upon a Gallows by the heels, being uſed in ſuch manner as ſcarce the like hath ever been heard off.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> Happened at <hi>Madrid</hi> in the <hi>Pla<g ref="char:EOLhyphen"/>ca Mayor</hi> a very great fire,<note place="margin">N.S.</note> which in few hours burnt to the ground all the Pile of Buildings, called the <hi>Planadera,</hi> with many other dwellings, <hi>&amp;c.</hi> containing as was ſuppoſed 2000. Families, whereof ſome were killed and burnt, and others hurt in quenching of the fire.</p>
+               <p>Certain news that the Heer <hi>de Groot</hi> was with drawn, <hi>&amp;c.</hi> alſo that Sieur <hi>Mombas</hi> and he was at <hi>Cologne.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> A general Rendez-vous of the Emperial Forces at <hi>Egra</hi> in <hi>Bohe<g ref="char:EOLhyphen"/>mia,</hi>
+                  <note place="margin">N.S.</note> who quickly after marched from thence towards <hi>Halberſtadt,</hi> in order to a Conjunction with the <hi>Brandenburgh</hi> Forces, <hi>&amp;c.</hi> Ar<g ref="char:EOLhyphen"/>rived there.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/> Her Grace the Dutcheſs of <hi>Monmouth,</hi> was brought to Bed of a Son.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> Several Articles were put up up<g ref="char:EOLhyphen"/>on the Exchange at <hi>Amſterdam,</hi>
+                  <note place="margin">N.S.</note> of a menacing nature, and the peo<g ref="char:EOLhyphen"/>ple much diſſatisfied, urging for a further reformation in the Magi<g ref="char:EOLhyphen"/>ſtracy, in imitation of <hi>Rotterdam</hi> and <hi>Delf.</hi>
+               </p>
+               <p>The Heer <hi>Fagel</hi> elected Penſio<g ref="char:EOLhyphen"/>nary of <hi>Holland.</hi>
+               </p>
+               <p>The <hi>Turks</hi> invade the <hi>Ukrain.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> Was beheaded in the <hi>Dutch</hi> Ar<g ref="char:EOLhyphen"/>my Colonel <hi>d'Oſſery,</hi>
+                  <note place="margin">N.S.</note> late Gover<g ref="char:EOLhyphen"/>nour of <hi>Rhynebergh.</hi>
+               </p>
+               <p>The <hi>Turks</hi> take <hi>Cominiec.</hi>
+               </p>
+               <p>The Biſhop of <hi>Munſter</hi> raiſed his Siege at <hi>Groningen.</hi>
+               </p>
+               <p>The <hi>Dutch</hi> Fleet arrived again before <hi>Shoonevelt.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> The <hi>French</hi> Army, which had for ſome time been encamped before <hi>Maeſtricht,</hi>
+                  <note place="margin">N.S.</note> broke up from thence and marched towards the <hi>Rhyne.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>September.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Colonel <hi>Zouteland</hi> Priſoner at the <hi>Hague,</hi>
+                  <note place="margin">N. S.</note> made his eſcape out of Priſon, but was retaken.</p>
+               <pb n="21" facs="tcp:45171:11" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> News that the Burghers at the <hi>Brill</hi> had diſplaced all their old Magiſtrates.</p>
+               <p>
+                  <hi>Blockzeil</hi> retaken by the <hi>Dutch.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Happened a Rencounter be<g ref="char:EOLhyphen"/>tween the Duke of <hi>Luxemburgh</hi>'s Forces,<note place="margin">N.S.</note> and the <hi>Dutch</hi> about <hi>Woer<g ref="char:EOLhyphen"/>den.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> The Burghers at <hi>Delf</hi> drove their Magiſtrates from the Town-houſe.<note place="margin">N.S.</note>
+               </p>
+               <p>The Biſhop of <hi>Munſter</hi> returned with his Forces into <hi>VVeſtpha<g ref="char:EOLhyphen"/>lia.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> At <hi>Middleburgh</hi> the Soulders under the command of Captain <hi>Soutland,</hi>
+                  <note place="margin">N.S.</note> came in an unruly man<g ref="char:EOLhyphen"/>ner to the States, demanding their Arrears.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+                  <hi>Charles</hi> Earl of <hi>Duncaſter,</hi> his Grace the Duke of <hi>Monmouth</hi>'s ſon was Chriſtned by his Grace the Archbiſhop of <hi>Canterbury.</hi>
+               </p>
+               <p>
+                  <hi>Poland</hi> much diſturbed and a<g ref="char:EOLhyphen"/>larmed at the approach of the Grand <hi>Seignours</hi> Forces, now ha<g ref="char:EOLhyphen"/>ving entred into thoſe parts, act<g ref="char:EOLhyphen"/>ing vigorouſly againſt that King<g ref="char:EOLhyphen"/>dom.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> A great diſturbance at <hi>Amſter<g ref="char:EOLhyphen"/>dam,</hi>
+                  <note place="margin">N. S.</note> where the Commonalty, would have been plundring Lieu<g ref="char:EOLhyphen"/>tenant Admiral <hi>de Ruyters</hi> Houſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Arrived at <hi>Genoua</hi> Monſieur <hi>Gaumont,</hi>
+                  <note place="margin">N.S.</note> the <hi>French</hi> Envoy.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> He had private Audience of the Senate there,<note place="margin">N.S.</note> making ſome Pro<g ref="char:EOLhyphen"/>poſitions, in order to a Peace be<g ref="char:EOLhyphen"/>tween that State and the Duke of <hi>Savoy.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> Monſieur <hi>Turenne</hi> paſſed the <hi>Rhyne</hi> about <hi>Weſel</hi> with his whole Army,<note place="margin">N.S.</note> in order to his attending the coming down of the Imperial and <hi>Brandenburgh</hi> Forces.</p>
+               <p>His Highneſs the Prince of <hi>O<g ref="char:EOLhyphen"/>range</hi> wrote a Letter unto the Bur<g ref="char:EOLhyphen"/>ghers of <hi>Amſterdam,</hi>
+                  <note place="margin">N.S.</note> in order to their deſire in their changing of their Magiſtrates.</p>
+               <p>The Heer <hi>Kievit</hi> made Penſio<g ref="char:EOLhyphen"/>nary of <hi>Rotterdam,</hi> in the place of the Heer <hi>de Groot.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Arrived at <hi>Halberſtadt</hi> General <hi>Montecuculi,</hi>
+                  <note place="margin">N.S.</note> having left his Troops at <hi>Mulhauſen.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> The <hi>Dutch</hi> Fleet off of <hi>Zealand,</hi> and many of their great Ships or<g ref="char:EOLhyphen"/>dered to be laid up for this Win<g ref="char:EOLhyphen"/>ter.<note place="margin">N. S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> A great fire in Saint <hi>Bernards</hi> Cloyſter at <hi>Antwerp.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/> His Majeſty ordered his Pro<g ref="char:EOLhyphen"/>clamation to be publiſhed for the proroguing of the Parliament, from <hi>October</hi> 30. to the 4th. of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> next.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/> His Royal Highneſs arrived at the Court from the Fleet.</p>
+               <p>Certain news, that many of the <hi>Dutch</hi> great Ships and men of War were gone in.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/> The Elector of <hi>Brandenburgh</hi> took up his own Quarters in the <hi>Engliſh</hi> Monaſtry at <hi>Lambſping.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/> Several Horſe and Foot of the <hi>Brandenburgh</hi> Forces arrived at <hi>Leeuwen.</hi>
+                  <note place="margin">N.S.</note>
+               </p>
+               <p>Count <hi>Montecuculi</hi> left the <hi>Bran<g ref="char:EOLhyphen"/>denburgh</hi> Court, and went to the Imperial Army.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> The Imperial Army paſſed by <hi>Eyſenach,</hi>
+                  <note place="margin">N.S.</note> and took up their chief quarter at <hi>Herleſhauſen.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="26"/> They came to <hi>Heringen.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/> 
+                  <note place="margin">N.S.</note>To <hi>Kirckhaſſel</hi> a league from <hi>Heunfeldt.</hi>
+               </p>
+               <p>The Imperial and <hi>Brandenburgh</hi> Troops at or about <hi>Heuxter,</hi> and made towards <hi>Francford.</hi>
+               </p>
+               <pb n="22" facs="tcp:45171:12" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/> Five Felons were executed at <hi>Durham,</hi> one of whom <hi>John Uſard,</hi> at the place of Execution, con<g ref="char:EOLhyphen"/>feſſed he was in the plot in the year 1663. ſhewing his hearty ſorrow and penitence for the ſame.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> Was a ſharp diſpute at the <hi>Bleſ<g ref="char:EOLhyphen"/>ſerbrugh,</hi>
+                  <note place="margin">N.S.</note> between <hi>Steenwick</hi> and <hi>Wolviga,</hi> between a party of the <hi>Dutch,</hi> and ſome <hi>French</hi> and <hi>Co<g ref="char:EOLhyphen"/>logne</hi> Troops.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/> Sir <hi>Robert Hanſon</hi> was choſen to be Lord Mayor of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> for the enſuing year.</p>
+               <p>
+                  <hi>Pritchard</hi> and <hi>James Smith</hi> Eſq ſworn Sheriffs of <hi>London</hi> and <hi>Middleſex.</hi>
+               </p>
+               <pb facs="tcp:45171:12"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
